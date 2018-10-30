@@ -1,9 +1,9 @@
 # MyReads
-**MYREADS** was built for the Udacity React Nanodegree Program. The project is to demonstrate understanding of the basic structure and operation of a React-based app.
+**MYREADS** was built for the Udacity React Nanodegree Program project.
 
 ## How to install
 
-To clone and run this application, you'll need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com/)) installed on your computer. From your command line:
+To clone and run this app, you'll need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com/)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
@@ -18,7 +18,7 @@ $ npm install
 
 ## How to run
 
-Once all of the dependencies have been installed you can launch the app with
+With the dependencies have been installed you can launch the app with
 
 ```
 npm start
@@ -28,11 +28,12 @@ A new browser window should automatically open displaying the app. If it doesn't
 
 ## How to use
 
-- Books are sorted into categories: Currently Reading, Want to Read and Read
+- There are three categories to sorted the books: Currently Reading, Want to Read and Read
+
 - To change a book's category or remove a book from the list, click on the green button on the book cover
 
 - To add new books, click on the green + button at the bottom of the page.
-  Enter an author's name or subject. Up to 20 items will be returned.
+  Type an author's name or subject.
 
 _Note: The backend API is limited to a fixed set of [search terms](#search-terms) -- see below for valid search options_
 

@@ -24,18 +24,16 @@ With the dependencies have been installed you can launch the app with
 npm start
 ```
 
-A new browser window should automatically open displaying the app. If it doesn't, navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
+Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
 
 ## How to use
 
 - There are three categories to sorted the books: Currently Reading, Want to Read and Read
 
-- To change a book's category or remove a book from the list, click on the green button on the book cover
+- Click on the green button on the book cover o change a book's category or remove a book from the list
 
-- To add new books, click on the green + button at the bottom of the page.
-  Type an author's name or subject.
+- Click on the green + button at the bottom of the page to add new books and type an author's name or subject.
 
-_Note: The backend API is limited to a fixed set of [search terms](#search-terms) -- see below for valid search options_
 
 ### Resources and Documentation:
 
@@ -56,5 +54,5 @@ _Note: The backend API is limited to a fixed set of [search terms](#search-terms
 
 'Android', 'Art', 'Artificial Intelligence', 'Astronomy', 'Austen', 'Baseball', 'Basketball', 'Bhagat', 'Biography', 'Brief', 'Business', 'Camus', 'Cervantes', 'Christie', 'Classics', 'Comics', 'Cook', 'Cricket', 'Cycling', 'Desai', 'Design', 'Development', 'Digital Marketing', 'Drama', 'Drawing', 'Dumas', 'Education', 'Everything', 'Fantasy', 'Film', 'Finance', 'First', 'Fitness', 'Football', 'Future', 'Games', 'Gandhi', 'History', 'History', 'Homer', 'Horror', 'Hugo', 'Ibsen', 'Journey', 'Kafka', 'King', 'Lahiri', 'Larsson', 'Learn', 'Literary Fiction', 'Make', 'Manage', 'Marquez', 'Money', 'Mystery', 'Negotiate', 'Painting', 'Philosophy', 'Photography', 'Poetry', 'Production', 'Program Javascript', 'Programming', 'React', 'Redux', 'River', 'Robotics', 'Rowling', 'Satire', 'Science Fiction', 'Shakespeare', 'Singh', 'Swimming', 'Tale', 'Thrun', 'Time', 'Tolstoy', 'Travel', 'Ultimate', 'Virtual Reality', 'Web Development', 'iOS'
 
-_This project is licensed under the terms of the MIT license._
+MIT license.
 
